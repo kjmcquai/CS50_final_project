@@ -1,0 +1,9 @@
+species,migrates,migration_months,route,reason
+mallard,True,"september;october;november","Canada;Great Lakes;Gulf of Mexico","To find unfrozen water and more food in winter."
+northern pintail,True,"august;september;october","Alaska;Prairies;Southern U.S.;Mexico","To reach warmer wetlands for winter foraging."
+indian runner,False,"none","", Domesticated ducks do not migrate.
+wood,True,"september;october","Great Lakes;Mid-Atlantic;Southeastern U.S.","To avoid freezing temperatures and food shortages."
+blue-winged teal,True,"august;september","Canadian Prairies;Midwest USA;Central America","To reach tropical wetlands for overwintering."
+redhead,True,"october;november","Northern U.S.;Mississippi River Valley;Texas Coast","To overwinter in warmer southern regions."
+muscovy duck,False,"","", "Muscovy ducks are largely non-migratory."
+american black,True,"october;november;december","Mid-Atlantic;Chesapeake Bay","To move to ice-free coastal areas for foraging."
